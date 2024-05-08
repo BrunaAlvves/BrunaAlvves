@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bruna Alves
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science Field
+- 💞️ I’m looking to collaborate on Data Science field
 - 📫 How to reach me: brualvesl18@gmail.com
 
 
